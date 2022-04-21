@@ -65,7 +65,7 @@
     </div>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem architecto quod veritatis id perspiciatis commodi tempora illum ullam fugit culpa a nam iste sequi itaque voluptates, error quidem blanditiis recusandae.</p>
     <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</span>
-    
+    <h1>Hola Mundo</h1>
   </body>
 
 </html>
